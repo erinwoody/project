@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "An awesome free one page HTML template for your startup business or personal website.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erinwoody/portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erinwoody/portfolio/issues"
+  },
+  "homepage": "https://github.com/erinwoody/portfolio#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
